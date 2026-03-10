@@ -1,0 +1,14 @@
+---
+title: "Rock and Riparia Portfolio"
+author: "F. Ryan O'Donnell"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: table
+  categories: cloud
+  fields: [title, date]
+  table-hover: true
+page-layout: full
+---
+
+Portfolio of projects and presentations

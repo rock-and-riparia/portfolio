@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rock and Riparia Portfolio",
+    "section": "",
+    "text": "Portfolio of projects and presentations\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\n\n\n\n\n\nBut Can I Swim In It?\n\n\nMar 10, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/NEPRWA_26-03-10.html#overview",
+    "href": "posts/NEPRWA_26-03-10.html#overview",
+    "title": "But Can I Swim In It?",
+    "section": "Overview",
+    "text": "Overview\n\nIntroduction to me\nWater quality communication challenges\nCase study: Creating Clearer Charts\nCase study: Revamping Is It Clean"
+  },
+  {
+    "objectID": "posts/NEPRWA_26-03-10.html#who-am-i",
+    "href": "posts/NEPRWA_26-03-10.html#who-am-i",
+    "title": "But Can I Swim In It?",
+    "section": "Who Am I?",
+    "text": "Who Am I?\n\n\n\nB.S. Geology (2011) & M.S. Sustainability Sciences (2013) from UMass Amherst\n2012: Volunteered in Connecticut River Conservancy’s (CRC) water quality lab testing E. coli samples\n2013: Vermont Agency of Natural Resources Intern supporting Southeastern Vermont Watershed Alliance (SeVWA) and Ottauquechee River Group monitoring programs\n2014+: Continued coordinating SeVWA program and supporting CRC lab and other various projects\n2017: Started Deerfield River Watershed Association (DRWA) monitoring program covering both MA & VT portion of watershed\n2018-2025: Became CRC’s water quality program manager bringing together CRC’s MA & CT monitoring with SeVWA and DRWA programs"
+  },
+  {
+    "objectID": "posts/NEPRWA_26-03-10.html#why-is-it-so-hard",
+    "href": "posts/NEPRWA_26-03-10.html#why-is-it-so-hard",
+    "title": "But Can I Swim In It?",
+    "section": "Why is it so hard?",
+    "text": "Why is it so hard?\n\n\n\nAs scientists, we want to communicate precisely\nAudiences have varying skill levels of interpreting data\nWater quality data is complex and noisy\nData can be both overabundant and sparse\nWater quality professionals are used to looking at this stuff!\n\n\n\n\n\n\nWhat am I?\n\n\n\n\n\n\nAs scientists, we want to communicate accurately and precisely\n\nWe don’t want to be misinterpreted so we attempt to communicate as precisely as we understand the data\nI ran into this issue a lot when sending copy to communications, they would attempt to simplify the language to make it easier to understand and drastically change the meaning of what I was trying to say\nIt’s a difficult balance to avoid jargon while maintaining clear meanings\n\nAudiences have varying skill levels of interpreting data - We are trying to communicate to people from a variety of backgrounds and experiences\n\nSome people want simple information (ok but, can I swim in it?) and others want to see all the numbers and make their own conclusions\nDifficult to balance the needs of both ends of this spectrum\nI.E. data can make more sense using a logirithmic scale but most people are unfamiliar with how to read them\n\nWater quality data is complex and noisy\n\nThere are so many external factors like land use, weather, flow, time of year, discharges like combined sewer overflows that affect the numbers\nRivers are constantly flowing and so are constantly in flux but grab samples are snapshots in time * Does this spot suddenly have high bacteria because something changed or because a goose flew by and pooped in the water right before I sampled and most of the time it’s still fine? Have to wait for another sample to confirm a trend but audiences sometimes what immediate action\n\nData can be both overabundant and sparse\n\nContinuous monitoring can produce data points in the thousands\nVolunteer grab sampling can be restricted by schedule, extreme weather events, and seasonality\n\nWater quality professionals are used to looking a this stuff!\n\nWhen we’re in this kind of data day in and day out, what may seem simple and common knowledge to us may actually be very niche * look at this charthere\nsome of you may know what it is immediately without being able tosee the axes and legend clearly and many of you probably do not"
+  },
+  {
+    "objectID": "posts/NEPRWA_26-03-10.html#start-from-the-basics",
+    "href": "posts/NEPRWA_26-03-10.html#start-from-the-basics",
+    "title": "But Can I Swim In It?",
+    "section": "Start from the basics",
+    "text": "Start from the basics\n\nI start every presentation with this image\n\nMy favorite diagram of a watershed\nExplains what a watershed is clearly, demonstrates different land uses and subwatersheds\nHas enough fun things to look at for people who might be bored relearning the basics\nI wish I knew where it came from…"
+  },
+  {
+    "objectID": "posts/NEPRWA_26-03-10.html#the-problem",
+    "href": "posts/NEPRWA_26-03-10.html#the-problem",
+    "title": "But Can I Swim In It?",
+    "section": "The Problem",
+    "text": "The Problem\n\nHow do we present five years of E. coli data clearly?\nSamples collected by volunteers over five years in three states\nCT & MA sampled on different days of the week, VT sampled every other week\nWeather conditions may be different across such a large area\nInclude in a report for colleagues, volunteers, and the public to review on their own\n\n\nThe source of the problem\n\nThrough Is It clean (to be discussed later), results from CRC monitoring are available as soon as possible so reports could focus on long-term trends\nI wanted to aggregate results from a very wide geographic area but\nsites were not all sampled simultaneously\nEven if they had been sampled all that same time, weather can be different"
+  },
+  {
+    "objectID": "posts/NEPRWA_26-03-10.html#the-data",
+    "href": "posts/NEPRWA_26-03-10.html#the-data",
+    "title": "But Can I Swim In It?",
+    "section": "The Data",
+    "text": "The Data\n\n\n\nHere is just one year of data\nWhat results are good? Bad?\nWhere are the sites?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI put this on a line chart but it would be just as overwhelming on a bar chart\nCompared to the range of the test, “good results” and “bad results” are right next to each other\nCRC’s site ids provide a lot of information (site, river, and river mile) but it looks like gibberish to most people\nThere are some conclusions that can be made using this chart but not a lot\nzoom in"
+  },
+  {
+    "objectID": "posts/NEPRWA_26-03-10.html#the-data-1",
+    "href": "posts/NEPRWA_26-03-10.html#the-data-1",
+    "title": "But Can I Swim In It?",
+    "section": "The Data",
+    "text": "The Data"
+  },
+  {
+    "objectID": "posts/NEPRWA_26-03-10.html#the-data-2",
+    "href": "posts/NEPRWA_26-03-10.html#the-data-2",
+    "title": "But Can I Swim In It?",
+    "section": "The Data",
+    "text": "The Data\nAdding more data doesn’t make it better…"
+  },
+  {
+    "objectID": "posts/NEPRWA_26-03-10.html#telling-a-story-with-data",
+    "href": "posts/NEPRWA_26-03-10.html#telling-a-story-with-data",
+    "title": "But Can I Swim In It?",
+    "section": "Telling a story with data",
+    "text": "Telling a story with data\n\nImportant information:\n\nBacteria levels are different in wet and dry weather\nWhere each site is located relative to each other\nSome colloquial information about sites\nWhat are the standards, when/where are they being met, and what does that mean for the river user?\n\nTools\n\nClear, familiar color coding systems\nThresholds clearly marked on graph\nPair a simplified map with a graph of the results\nBonus: Interactivity!"
+  },
+  {
+    "objectID": "posts/NEPRWA_26-03-10.html#my-favorite-graph",
+    "href": "posts/NEPRWA_26-03-10.html#my-favorite-graph",
+    "title": "But Can I Swim In It?",
+    "section": "My Favorite Graph",
+    "text": "My Favorite Graph\n\n\n\n\n\n\nSee the rest of the report.\n\n\nstoplight colors (also colorblind friendly!)\nThe simplified line of the CT River gives someone more familiar with the geography more information without inhibiting those who don’t\nClear demarkation of the standards for primary and secondary contact recreation simplified to swimming/boating for the layperson that also explains the color coding without adding too much information to the legend\nUse short common names for sites instead of Site IDs\nEven when I don’t have a map, I try to always order sites by upriver to downriver if possible\nIf I feel a particular method of displaying the data doesn’t convey the full picture easily, I present multiple formats (ie line graphs of averages AND box and whisker plots of all results)"
+  },
+  {
+    "objectID": "posts/NEPRWA_26-03-10.html#is-it-clean",
+    "href": "posts/NEPRWA_26-03-10.html#is-it-clean",
+    "title": "But Can I Swim In It?",
+    "section": "Is It Clean?",
+    "text": "Is It Clean?\n\nWebsite launched in 2012\nPart of a partnership with the Pioneer Valley Planning Commission\nShowcase E. coli data being collected throughout the Connecticut River Watershed\nBilingual\nHad a side-mission of serving as CRC’s lab’s water quality database\nBuilt in Drupal with lots of custom code\n\n\n\nThe website was in its final stages of development and had newly gone live when I was a lab volunteer in 2012\nPVPC website was supposed to showcase recreation throughout the Connecticut River valley and Is It Clean was one part of the site\nInitial contributers included CRC, PVPC, SeVWA, Millers River Watershed Council, and Farmington River Watershed Association\nPlanned to be available in English and Spanish from the start\nCRC lacked a water quality database so the thinking was for this website to also serve that role\nWas somewhat high-tech at its development using Drupal but had a lot of custom code because there weren’t abundant geographic data tools available yet"
+  },
+  {
+    "objectID": "posts/NEPRWA_26-03-10.html#through-the-ages",
+    "href": "posts/NEPRWA_26-03-10.html#through-the-ages",
+    "title": "But Can I Swim In It?",
+    "section": "Through the ages",
+    "text": "Through the ages\n\n\n\nIn the beginning\n\n2013 Home Page\n2016 Site Page\n\nRebranding and Incremental Change\n\n2022 Home Page\n2023 Site Page\n\n\n\n\nChallenges along the way\n\nFunding for ongoing maintenance and updates\nWeb developers didn’t understand water quality\n\nLat/Long was backward the ENTIRE time even though we constantly asked for it to be fixed\n\nSwitched web developers and they didn’t understand website and couldn’t make any changes\n\n\n\n\n\nChallenges\n\nFunding disappeared after the initial development so the rest of the website was never finished and further Is It Clean development was sparse\nWe had a hard time communicating with our web developers what we wanted and how we wanted it presented\nThen when we switched web developers, the new firm didn’t understand all the custom code and couldn’t make updates to the site"
+  },
+  {
+    "objectID": "posts/NEPRWA_26-03-10.html#from-the-ground-up",
+    "href": "posts/NEPRWA_26-03-10.html#from-the-ground-up",
+    "title": "But Can I Swim In It?",
+    "section": "From the ground up",
+    "text": "From the ground up\n\nWorked with The Commons\nIdentified available tools that would work for CRC goals\n\nMoved all CRC water quality data out of Excel into AirTable\nSeparated Is It Clean partner data out of CRC data\nDeveloped ideal vision for the new website and created RFP\n\nFedo.Studio developed Is It Clean\n\nWeekly meetings from wireframes through to custom code development\nTook the time to understand water quality data and what we wanted to communicate\n\n\n\n\nRead The Commons’ case study of the Is It Clean Development here"
+  },
+  {
+    "objectID": "posts/NEPRWA_26-03-10.html#meet-the-new-website",
+    "href": "posts/NEPRWA_26-03-10.html#meet-the-new-website",
+    "title": "But Can I Swim In It?",
+    "section": "Meet the new website",
+    "text": "Meet the new website\nIs It Clean"
+  }
+]
